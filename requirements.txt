@@ -1,12 +1,6 @@
 streamlit
 openai
-yagmail
-twilio
 requests
 beautifulsoup4
 pypdf
-opencv-python-headless==4.10.0.84
-ultralytics
-streamlit-webrtc
-av
 supabase
